@@ -1,0 +1,5 @@
+{
+    "webhook": "webhook url to send notifications",
+    "token": "token to monitor/claim",
+    "guild_id": ["claim guild id 1", "claim guild id 2", "claim guild id 3"]
+}
