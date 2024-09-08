@@ -2,3 +2,6 @@ ik the code is so retarded this was like the 2nd program i did in golang arround
 
 
 10 stars i make better maybe
+
+
+use your brain please to run i lazy make tutorial
